@@ -3,7 +3,7 @@ I'm a Unity Developer.
 
 ## My Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=cs,py,cpp,ruby,ts,dart" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=unity,rails,arduino,git,github,react,nextjs,tailwind" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=unity,rails,arduino,git,github,react,nextjs,tailwind,flutter" />
 
 ## Status
 <p align="left"> 
