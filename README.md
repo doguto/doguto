@@ -1,9 +1,19 @@
 ## Hi there 👋
-I'm a Unity Developer.
+I'm a software engineer.
 
 ## My Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=cs,py,cpp,ruby,ts,go,dart" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=unity,rails,git,github,aws,react,nextjs,tailwind,flutter,arduino" />
+
+### Languages
+<img alt="my langs" src="https://skillicons.dev/icons?theme=light&perline=8&i=cs,ruby,cpp,py,ts,go,dart" />
+
+### FrameWorks
+<img alt="my frameworks" src="https://skillicons.dev/icons?theme=light&perline=8&i=unity,rails,react,nextjs,tailwind,flutter,ros,arduino" />
+
+### Infrastructures
+<img alt="my infras" src="https://skillicons.dev/icons?theme=light&perline=8&i=aws" />
+
+### Tools
+<img alt="my tools" src="https://skillicons.dev/icons?theme=light&perline=8&i=git,github" />
 
 ## Status
 <p align="left"> 
