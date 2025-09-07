@@ -7,7 +7,7 @@ I'm a software engineer.
 <img alt="my langs" src="https://skillicons.dev/icons?theme=light&perline=8&i=cs,ruby,cpp,py,ts,go,dart" />
 
 ### Frameworks
-<img alt="my frameworks" src="https://skillicons.dev/icons?theme=light&perline=8&i=unity,rails,react,nextjs,tailwind,flutter,ros,arduino" />
+<img alt="my frameworks" src="https://skillicons.dev/icons?theme=light&perline=8&i=unity,rails,nextjs,flutter,ros" />
 
 ### Infrastructures
 <img alt="my infras" src="https://skillicons.dev/icons?theme=light&perline=8&i=aws,docker" />
