@@ -4,10 +4,10 @@ I'm a software engineer.
 ## My Skills
 
 ### Languages
-<img alt="my langs" src="https://skillicons.dev/icons?theme=light&perline=8&i=cs,ruby,cpp,py,ts,go,dart" />
+<img alt="my langs" src="https://skillicons.dev/icons?theme=light&perline=8&i=cs,ruby,cpp,py,go,ts,js,dart" />
 
 ### Frameworks
-<img alt="my frameworks" src="https://skillicons.dev/icons?theme=light&perline=8&i=unity,rails,nextjs,flutter,ros" />
+<img alt="my frameworks" src="https://skillicons.dev/icons?theme=light&perline=8&i=unity,rails,nextjs,flutter,ros,arduino" />
 
 ### Infrastructures
 <img alt="my infras" src="https://skillicons.dev/icons?theme=light&perline=8&i=aws,docker" />
