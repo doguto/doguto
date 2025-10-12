@@ -1,6 +1,9 @@
 ## Hi there 👋
 I'm a software engineer.
 
+## Contribute to...
+- [git-feed](https://github.com/tsukuneA1/git-feed)
+
 ## My Skills
 
 ### Languages
@@ -14,9 +17,6 @@ I'm a software engineer.
 
 ### Tools
 <img alt="my tools" src="https://skillicons.dev/icons?theme=light&perline=8&i=git,github" />
-
-## Contribute to...
-[git-feed](https://github.com/tsukuneA1/git-feed)
 
 ## Status
 <p align="left"> 
