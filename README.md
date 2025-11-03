@@ -10,6 +10,7 @@ I'm a software engineer.
 ### Languages
 <img alt="my langs" src="https://skillicons.dev/icons?theme=light&perline=8&i=cs,ruby,cpp,py,go,ts,js,dart" />
 
+
 ### Frameworks
 <img alt="my frameworks" src="https://skillicons.dev/icons?theme=light&perline=8&i=unity,rails,dotnet,nextjs,flutter,ros,arduino" />
 
@@ -20,11 +21,14 @@ I'm a software engineer.
 <img alt="my tools" src="https://skillicons.dev/icons?theme=light&perline=8&i=git,github" />
 
 ## Status
-<p align="left"> 
+<div align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doguto&layout=compact&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=doguto" />
-</p>
-
+</div>
+<div align="center">
+  <img width="820" src="https://github-readme-activity-graph-mauve.vercel.app/graph?username=doguto&theme=github&days=60" >
+</div>
+  
 <!--
 **doguto/doguto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
