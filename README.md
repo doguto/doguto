@@ -26,5 +26,5 @@ I'm a software engineer.
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=doguto" />
 </div>
 <div align="center">
-  <img width="820" src="https://github-readme-activity-graph-mauve.vercel.app/graph?username=doguto&theme=github&days=60" >
+  <img width="820" src="https://github-readme-activity-graph-mauve.vercel.app/graph?username=doguto&theme=github&days=30" >
 </div>
