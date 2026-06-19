@@ -15,10 +15,10 @@ I'm a software engineer.
 <img alt="my frameworks" src="https://skillicons.dev/icons?theme=light&perline=8&i=unity,rails,dotnet,nextjs,flutter,ros,arduino" />
 
 ### Infrastructures
-<img alt="my infras" src="https://skillicons.dev/icons?theme=light&perline=8&i=aws,docker,mysql" />
+<img alt="my infras" src="https://skillicons.dev/icons?theme=light&perline=8&i=aws,docker,mysql,postgresql" />
 
 ### Tools
-<img alt="my tools" src="https://skillicons.dev/icons?theme=light&perline=8&i=git,github" />
+<img alt="my tools" src="https://skillicons.dev/icons?theme=light&perline=8&i=git,github,vscode,neovim" />
 
 ## Status
 <div align="left"> 
