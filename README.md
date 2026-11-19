@@ -31,7 +31,7 @@ I'm a junior junior junior software engineer.
 
 ### Infrastructures
 <p>
-  <img alt="AWS" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/amazonwebservices/amazonwebservices-plain.svg" />
+  <img alt="AWS" src="https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
