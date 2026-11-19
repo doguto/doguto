@@ -29,6 +29,7 @@ I'm a junior junior junior software engineer.
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img alt="ROS" src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
 ### Infrastructures
@@ -38,6 +39,7 @@ I'm a junior junior junior software engineer.
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
 ### Tools
@@ -49,9 +51,10 @@ I'm a junior junior junior software engineer.
 </p>
 
 ## Status
-<div align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doguto&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=doguto" />
+<div align="left">
+  <img alt="GitHub stats" height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=doguto&theme=default" />
+  <img alt="Most commit languages" height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doguto&theme=default" />
+  <img alt="GitHub streak" height="160px" src="https://streak-stats.demolab.com?user=doguto&theme=default" />
 </div>
 <!-- <div align="center">
   <img width="820" src="https://github-readme-activity-graph-mauve.vercel.app/graph?username=doguto&theme=github&days=30" >
