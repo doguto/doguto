@@ -1,10 +1,6 @@
 ## Hi there 👋
 I'm a junior junior junior software engineer.
 
-## Contribute to...
-- [git-feed](https://github.com/tsukuneA1/git-feed)
-- [Livais-frontend](https://github.com/tsukuneA1/Livais-frontend)
-
 ## My Skills
 
 ### Languages
